@@ -1,0 +1,5 @@
+pop_size: 10
+iter_num: 100
+c1: 2
+c2: 2
+vmax: 1

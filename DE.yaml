@@ -1,0 +1,4 @@
+pop_size: 100
+iter_num: 100
+crossover_rate: 0.8
+F: 0.5
